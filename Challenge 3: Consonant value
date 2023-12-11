@@ -1,9 +1,0 @@
-def get_consonant_value(string):
-    alphabet = 'abcdefghijklmnopqrstuvwxyz'
-    vowels = 'aeiou'
-    
-    values = []
-    s_value = 0
-    
-    
-   
