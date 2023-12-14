@@ -6,7 +6,7 @@ def positive_check(a, b, c):
     return pos == 2
 
 # print(positive_check(2, 4, -3))
-# print(positive_check(-4, 6, 0))
+print(positive_check(-4, 6, 0))
 # print(positive_check(-14, -3, -4))
 # print(positive_check(4, 6, 10))
 # print(positive_check(4, -6, 9))

@@ -22,7 +22,7 @@ def get_consonant_value(string):
     
     return values[0] if len(values) > 0 else 0
 
-# print(get_consonant_value('zodiacs'))
+print(get_consonant_value('zodiacs'))
 # print(get_consonant_value('strength'))
 
 
